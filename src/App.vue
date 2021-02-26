@@ -13,7 +13,7 @@
           <v-img src="./assets/watch.png" alt="admin" class="mx-auto" />
         </v-list-item-avatar>
         <v-list-item-title class="ml-4 text-capitalize"
-          >AAE IdeaPro</v-list-item-title
+          >AAE IdeaPro v2</v-list-item-title
         >
       </v-list-item>
       <v-list shaped class="clickable">
